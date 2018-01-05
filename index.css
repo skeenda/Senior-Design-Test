@@ -1,0 +1,17 @@
+.fixed{
+    position: fixed;
+}
+
+.sideNavigation{
+    float: left;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
